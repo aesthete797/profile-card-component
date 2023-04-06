@@ -80,7 +80,7 @@ h1 {
 hr {
   text-align: center;
   width: 100%;
-  border-top: 0.1px solid hsl(227, 10%, 46%);
+  border-top: 0.1px solid hsl(0, 0%, 59%);
   opacity: 50%;
   margin-top: 30px;
 }
